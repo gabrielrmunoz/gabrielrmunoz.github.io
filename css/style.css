@@ -1269,3 +1269,10 @@ footer .credits a {
     bottom: 15px;
   }
 }
+
+.modal-body-custom {
+  position:relative;
+  -ms-flex:1 1 auto;
+  flex:1 1 auto;
+  padding:2rem
+}
