@@ -1281,9 +1281,25 @@ footer .credits a {
   padding:2rem
 }
 
-#flex-center {
+.flex-center {
   display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
+}
+
+.flex-end {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  flex-direction: column;
+}
+
+.custom-icon {
+  font-size: 1.8rem;
+}
+
+.custom-lead {
+  font-size: 1.15rem;
+  font-weight: 300;
 }
