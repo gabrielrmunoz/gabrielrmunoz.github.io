@@ -1276,3 +1276,9 @@ footer .credits a {
   flex:1 1 auto;
   padding:2rem
 }
+
+#about-info {
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
