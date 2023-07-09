@@ -690,6 +690,10 @@ a:hover {
   margin-left: 10px;
 }
 
+.skill-mf {
+  padding-top: 3rem;
+}
+
 .skill-mf span {
   color: #4e4e4e;
 }
@@ -1277,7 +1281,8 @@ footer .credits a {
   padding:2rem
 }
 
-#about-info {
+#flex-center {
+  display: flex;
   justify-content: center;
   align-items: center;
   flex-direction: column;
