@@ -3547,6 +3547,10 @@ td:last-child {
   color: var(--color-3);
 }
 
+.s-intro__scroll-down a:hover {
+  transform: scale(1.2);
+}
+
 .s-intro__scroll-down span {
   display: block;
   font-family: var(--font-1);
@@ -4506,6 +4510,10 @@ td:last-child {
   fill: white;
 }
 
+.ss-go-top a:hover {
+  transform: scale(1.2);
+}
+
 /* ------------------------------------------------------------------- 
  * responsive:
  * footer
@@ -4524,6 +4532,10 @@ td:last-child {
     margin: 0;
     height: var(--vspace-1_5);
     width: var(--vspace-1_5);
+  }
+
+  .ss-go-top a:hover {
+    transform: scale(1.2);
   }
 
   .ss-go-top svg {
